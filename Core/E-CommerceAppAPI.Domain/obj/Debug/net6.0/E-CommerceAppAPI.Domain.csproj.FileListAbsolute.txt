@@ -1,0 +1,12 @@
+/Users/fursakizci/Projects/E-CommerceApp/E-CommerceAppAPI/Core/E-CommerceAppAPI.Domain/bin/Debug/net6.0/E-CommerceAppAPI.Domain.deps.json
+/Users/fursakizci/Projects/E-CommerceApp/E-CommerceAppAPI/Core/E-CommerceAppAPI.Domain/bin/Debug/net6.0/E-CommerceAppAPI.Domain.dll
+/Users/fursakizci/Projects/E-CommerceApp/E-CommerceAppAPI/Core/E-CommerceAppAPI.Domain/bin/Debug/net6.0/E-CommerceAppAPI.Domain.pdb
+/Users/fursakizci/Projects/E-CommerceApp/E-CommerceAppAPI/Core/E-CommerceAppAPI.Domain/obj/Debug/net6.0/E-CommerceAppAPI.Domain.csproj.AssemblyReference.cache
+/Users/fursakizci/Projects/E-CommerceApp/E-CommerceAppAPI/Core/E-CommerceAppAPI.Domain/obj/Debug/net6.0/E-CommerceAppAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fursakizci/Projects/E-CommerceApp/E-CommerceAppAPI/Core/E-CommerceAppAPI.Domain/obj/Debug/net6.0/E-CommerceAppAPI.Domain.AssemblyInfoInputs.cache
+/Users/fursakizci/Projects/E-CommerceApp/E-CommerceAppAPI/Core/E-CommerceAppAPI.Domain/obj/Debug/net6.0/E-CommerceAppAPI.Domain.AssemblyInfo.cs
+/Users/fursakizci/Projects/E-CommerceApp/E-CommerceAppAPI/Core/E-CommerceAppAPI.Domain/obj/Debug/net6.0/E-CommerceAppAPI.Domain.csproj.CoreCompileInputs.cache
+/Users/fursakizci/Projects/E-CommerceApp/E-CommerceAppAPI/Core/E-CommerceAppAPI.Domain/obj/Debug/net6.0/E-CommerceAppAPI.Domain.dll
+/Users/fursakizci/Projects/E-CommerceApp/E-CommerceAppAPI/Core/E-CommerceAppAPI.Domain/obj/Debug/net6.0/refint/E-CommerceAppAPI.Domain.dll
+/Users/fursakizci/Projects/E-CommerceApp/E-CommerceAppAPI/Core/E-CommerceAppAPI.Domain/obj/Debug/net6.0/E-CommerceAppAPI.Domain.pdb
+/Users/fursakizci/Projects/E-CommerceApp/E-CommerceAppAPI/Core/E-CommerceAppAPI.Domain/obj/Debug/net6.0/ref/E-CommerceAppAPI.Domain.dll

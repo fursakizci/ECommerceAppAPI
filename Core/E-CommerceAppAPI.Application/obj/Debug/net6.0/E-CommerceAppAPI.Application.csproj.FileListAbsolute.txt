@@ -1,0 +1,17 @@
+/Users/fursakizci/Projects/E-CommerceApp/E-CommerceAppAPI/Core/E-CommerceAppAPI.Application/bin/Debug/net6.0/E-CommerceAppAPI.Application.deps.json
+/Users/fursakizci/Projects/E-CommerceApp/E-CommerceAppAPI/Core/E-CommerceAppAPI.Application/bin/Debug/net6.0/E-CommerceAppAPI.Application.dll
+/Users/fursakizci/Projects/E-CommerceApp/E-CommerceAppAPI/Core/E-CommerceAppAPI.Application/bin/Debug/net6.0/E-CommerceAppAPI.Application.pdb
+/Users/fursakizci/Projects/E-CommerceApp/E-CommerceAppAPI/Core/E-CommerceAppAPI.Application/bin/Debug/net6.0/E-CommerceAppAPI.Domain.dll
+/Users/fursakizci/Projects/E-CommerceApp/E-CommerceAppAPI/Core/E-CommerceAppAPI.Application/bin/Debug/net6.0/E-CommerceAppAPI.Domain.pdb
+/Users/fursakizci/Projects/E-CommerceApp/E-CommerceAppAPI/Core/E-CommerceAppAPI.Application/obj/Debug/net6.0/E-CommerceAppAPI.Application.csproj.AssemblyReference.cache
+/Users/fursakizci/Projects/E-CommerceApp/E-CommerceAppAPI/Core/E-CommerceAppAPI.Application/obj/Debug/net6.0/E-CommerceAppAPI.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fursakizci/Projects/E-CommerceApp/E-CommerceAppAPI/Core/E-CommerceAppAPI.Application/obj/Debug/net6.0/E-CommerceAppAPI.Application.AssemblyInfoInputs.cache
+/Users/fursakizci/Projects/E-CommerceApp/E-CommerceAppAPI/Core/E-CommerceAppAPI.Application/obj/Debug/net6.0/E-CommerceAppAPI.Application.AssemblyInfo.cs
+/Users/fursakizci/Projects/E-CommerceApp/E-CommerceAppAPI/Core/E-CommerceAppAPI.Application/obj/Debug/net6.0/E-CommerceAppAPI.Application.csproj.CoreCompileInputs.cache
+/Users/fursakizci/Projects/E-CommerceApp/E-CommerceAppAPI/Core/E-CommerceAppAPI.Application/obj/Debug/net6.0/E-CommerceAppAPI.Application.csproj.CopyComplete
+/Users/fursakizci/Projects/E-CommerceApp/E-CommerceAppAPI/Core/E-CommerceAppAPI.Application/obj/Debug/net6.0/E-CommerceAppAPI.Application.dll
+/Users/fursakizci/Projects/E-CommerceApp/E-CommerceAppAPI/Core/E-CommerceAppAPI.Application/obj/Debug/net6.0/refint/E-CommerceAppAPI.Application.dll
+/Users/fursakizci/Projects/E-CommerceApp/E-CommerceAppAPI/Core/E-CommerceAppAPI.Application/obj/Debug/net6.0/E-CommerceAppAPI.Application.pdb
+/Users/fursakizci/Projects/E-CommerceApp/E-CommerceAppAPI/Core/E-CommerceAppAPI.Application/obj/Debug/net6.0/ref/E-CommerceAppAPI.Application.dll
+/Users/fursakizci/Projects/E-CommerceApp/E-CommerceAppAPI/Core/E-CommerceAppAPI.Application/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/fursakizci/Projects/E-CommerceApp/E-CommerceAppAPI/Core/E-CommerceAppAPI.Application/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.xml

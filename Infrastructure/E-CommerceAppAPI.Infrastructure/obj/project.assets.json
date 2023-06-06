@@ -1,0 +1,107 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "E-CommerceAppAPI.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "E-CommerceAppAPI.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/E-CommerceAppAPI.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/E-CommerceAppAPI.Application.dll": {}
+        }
+      },
+      "E-CommerceAppAPI.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/E-CommerceAppAPI.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/E-CommerceAppAPI.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "E-CommerceAppAPI.Application/1.0.0": {
+      "type": "project",
+      "path": "../../Core/E-CommerceAppAPI.Application/E-CommerceAppAPI.Application.csproj",
+      "msbuildProject": "../../Core/E-CommerceAppAPI.Application/E-CommerceAppAPI.Application.csproj"
+    },
+    "E-CommerceAppAPI.Domain/1.0.0": {
+      "type": "project",
+      "path": "../../Core/E-CommerceAppAPI.Domain/E-CommerceAppAPI.Domain.csproj",
+      "msbuildProject": "../../Core/E-CommerceAppAPI.Domain/E-CommerceAppAPI.Domain.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "E-CommerceAppAPI.Application >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/fursakizci/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/fursakizci/Projects/E-CommerceApp/E-CommerceAppAPI/Infrastructure/E-CommerceAppAPI.Infrastructure/E-CommerceAppAPI.Infrastructure.csproj",
+      "projectName": "E-CommerceAppAPI.Infrastructure",
+      "projectPath": "/Users/fursakizci/Projects/E-CommerceApp/E-CommerceAppAPI/Infrastructure/E-CommerceAppAPI.Infrastructure/E-CommerceAppAPI.Infrastructure.csproj",
+      "packagesPath": "/Users/fursakizci/.nuget/packages/",
+      "outputPath": "/Users/fursakizci/Projects/E-CommerceApp/E-CommerceAppAPI/Infrastructure/E-CommerceAppAPI.Infrastructure/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/fursakizci/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "/Users/fursakizci/Projects/E-CommerceApp/E-CommerceAppAPI/Core/E-CommerceAppAPI.Application/E-CommerceAppAPI.Application.csproj": {
+              "projectPath": "/Users/fursakizci/Projects/E-CommerceApp/E-CommerceAppAPI/Core/E-CommerceAppAPI.Application/E-CommerceAppAPI.Application.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.302/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
