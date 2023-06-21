@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "PG79ZiVfG3q7Gnn8zT3wM+BAhwHD8339SsOvR1q/TBekFWXPUiTnpZikzjwTZyjt5/CxiZkNJGXVzI32y755qA==",
+  "dgSpecHash": "R/tI6yMFfqD6M9OxCn5XgfwIHrkB7kbIr10Upxh1ufDklaHRolrftr4ZQ2ywBVRLeZyLk4BOyFyN8Mr2jERpTA==",
   "success": true,
   "projectFilePath": "/Users/fursakizci/Projects/E-CommerceApp/E-CommerceAppAPI/Infrastructure/E-CommerceAppAPI.Persistence/E-CommerceAppAPI.Persistence.csproj",
   "expectedPackageFiles": [
+    "/Users/fursakizci/.nuget/packages/fluentvalidation/11.5.2/fluentvalidation.11.5.2.nupkg.sha512",
+    "/Users/fursakizci/.nuget/packages/fluentvalidation.aspnetcore/11.3.0/fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "/Users/fursakizci/.nuget/packages/fluentvalidation.dependencyinjectionextensions/11.5.2/fluentvalidation.dependencyinjectionextensions.11.5.2.nupkg.sha512",
     "/Users/fursakizci/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/Users/fursakizci/.nuget/packages/microsoft.entityframeworkcore/8.0.0-preview.4.23259.3/microsoft.entityframeworkcore.8.0.0-preview.4.23259.3.nupkg.sha512",
     "/Users/fursakizci/.nuget/packages/microsoft.entityframeworkcore.abstractions/8.0.0-preview.4.23259.3/microsoft.entityframeworkcore.abstractions.8.0.0-preview.4.23259.3.nupkg.sha512",

@@ -11,4 +11,8 @@
       <ProjectReference Include="..\..\Core\E-CommerceAppAPI.Application\E-CommerceAppAPI.Application.csproj" />
     </ItemGroup>
 
+    <ItemGroup>
+      <Folder Include="StaticServices" />
+    </ItemGroup>
+
 </Project>

@@ -1,11 +1,19 @@
 {
   "Version": 1,
-  "Hash": "1kH7uddh/JSe1yb4lqR7Nd8hs0ogW8Td/rKFvYnZih0=",
+  "Hash": "XKOEQzAYLe/8QF8MUZnZm3GJkaytVsUYQTqri1LNaNw=",
   "Source": "E-CommerceAppAPI.API",
   "BasePath": "_content/E-CommerceAppAPI.API",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "E-CommerceAppAPI.API/wwwroot",
+      "Source": "E-CommerceAppAPI.API",
+      "ContentRoot": "/Users/fursakizci/Projects/E-CommerceApp/E-CommerceAppAPI/Presentation/E-CommerceAppAPI.API/wwwroot/",
+      "BasePath": "_content/E-CommerceAppAPI.API",
+      "Pattern": "**"
+    }
+  ],
   "Assets": []
 }

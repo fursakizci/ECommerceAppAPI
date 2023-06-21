@@ -16,7 +16,12 @@
     </ItemGroup>
 
     <ItemGroup>
+      <ProjectReference Include="..\..\Infrastructure\E-CommerceAppAPI.Infrastructure\E-CommerceAppAPI.Infrastructure.csproj" />
       <ProjectReference Include="..\..\Infrastructure\E-CommerceAppAPI.Persistence\E-CommerceAppAPI.Persistence.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Folder Include="wwwroot" />
     </ItemGroup>
 
 </Project>

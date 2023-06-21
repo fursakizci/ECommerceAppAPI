@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "MNiRGbNzkHF8YC0/P8RQHjtLm7ycl7rV5DSSTR57cw0YaO7cZNiuJj6513q62Z7pOzKXoYsnALgOqyPyOyLStg==",
+  "dgSpecHash": "90MklSbY/4FzvDqP53hbOLVQDOervj6ID8I0pSXjMEfNrjDAPtlwTUdQKoOgWpUXL090FLJmiNMXgjeVOC/LTw==",
   "success": true,
   "projectFilePath": "/Users/fursakizci/Projects/E-CommerceApp/E-CommerceAppAPI/Core/E-CommerceAppAPI.Application/E-CommerceAppAPI.Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/fursakizci/.nuget/packages/fluentvalidation/11.5.2/fluentvalidation.11.5.2.nupkg.sha512",
+    "/Users/fursakizci/.nuget/packages/fluentvalidation.aspnetcore/11.3.0/fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "/Users/fursakizci/.nuget/packages/fluentvalidation.dependencyinjectionextensions/11.5.2/fluentvalidation.dependencyinjectionextensions.11.5.2.nupkg.sha512",
+    "/Users/fursakizci/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/2.1.0/microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512"
+  ],
   "logs": []
 }
