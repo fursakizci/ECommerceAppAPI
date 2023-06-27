@@ -13,6 +13,10 @@ public class ECommerceApiDbContext : DbContext
     public DbSet<Product> Products { get; set; }
     public DbSet<Order> Orders { get; set; }
     public DbSet<Customer> Customers { get; set; }
+    public DbSet<Domain.File> Files { get; set; }
+    public DbSet<ProductImageFile> ProductImageFiles { get; set; }
+    public DbSet<InvoiceFile> InvoiceFiles { get; set; }
+
 
     // It is a property that enables the capture of changes or newly added data made through entities.
     // It allows us to capture and obtain the data tracked in update operations.

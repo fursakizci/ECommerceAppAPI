@@ -47,6 +47,32 @@ namespace E_CommerceAppAPI.Persistence.Migrations
                     b.ToTable("customers");
                 });
 
+            modelBuilder.Entity("E_CommerceAppAPI.Domain.File", b =>
+                {
+                    b.Property<Guid>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("uuid")
+                        .HasColumnName("id");
+
+                    b.Property<DateTime>("CreateDate")
+                        .HasColumnType("timestamp with time zone")
+                        .HasColumnName("createdate");
+
+                    b.Property<string>("Discriminator")
+                        .IsRequired()
+                        .HasMaxLength(21)
+                        .HasColumnType("character varying(21)")
+                        .HasColumnName("discriminator");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("files");
+
+                    b.HasDiscriminator<string>("Discriminator").HasValue("File");
+
+                    b.UseTphMappingStrategy();
+                });
+
             modelBuilder.Entity("E_CommerceAppAPI.Domain.Order", b =>
                 {
                     b.Property<Guid>("Id")
@@ -131,6 +157,24 @@ namespace E_CommerceAppAPI.Persistence.Migrations
                     b.HasIndex("ProductsId");
 
                     b.ToTable("orderproduct");
+                });
+
+            modelBuilder.Entity("E_CommerceAppAPI.Domain.InvoiceFile", b =>
+                {
+                    b.HasBaseType("E_CommerceAppAPI.Domain.File");
+
+                    b.ToTable("files");
+
+                    b.HasDiscriminator().HasValue("InvoiceFile");
+                });
+
+            modelBuilder.Entity("E_CommerceAppAPI.Domain.ProductImageFile", b =>
+                {
+                    b.HasBaseType("E_CommerceAppAPI.Domain.File");
+
+                    b.ToTable("files");
+
+                    b.HasDiscriminator().HasValue("ProductImageFile");
                 });
 
             modelBuilder.Entity("E_CommerceAppAPI.Domain.Order", b =>

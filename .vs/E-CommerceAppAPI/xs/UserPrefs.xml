@@ -1,31 +1,58 @@
 ﻿<Properties StartupConfiguration="{B62308D7-E98C-4F20-BF59-78A2E6368E5F}|Default">
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore>
-      <Breakpoint file="/Users/fursakizci/Projects/E-CommerceApp/E-CommerceAppAPI/Infrastructure/E-CommerceAppAPI.Persistence/Repositories/WriteRepository.cs" relfile="Infrastructure/E-CommerceAppAPI.Persistence/Repositories/WriteRepository.cs" line="30" column="1" />
-    </BreakpointStore>
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.Presentation.E-CommerceAppAPI.API PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Infrastructure/E-CommerceAppAPI.Persistence/Repositories/WriteRepository.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Infrastructure/E-CommerceAppAPI.Persistence/Concretes/InvoiceFile/InvoiceFileReadRepository.cs">
     <Files>
-      <File FileName="Presentation/E-CommerceAppAPI.API/Controllers/ProductController.cs" Line="20" Column="6" />
-      <File FileName="Infrastructure/E-CommerceAppAPI.Persistence/ServiceRegistration.cs" Line="1" Column="1" />
-      <File FileName="Infrastructure/E-CommerceAppAPI.Persistence/Repositories/WriteRepository.cs" Line="31" Column="29" />
+      <File FileName="Infrastructure/E-CommerceAppAPI.Persistence/Migrations/20230626051719_mig_3.cs" Line="1" Column="1" />
+      <File FileName="Core/E-CommerceAppAPI.Domain/InvoiceFile.cs" />
+      <File FileName="Core/E-CommerceAppAPI.Domain/Order.cs" />
+      <File FileName="Core/E-CommerceAppAPI.Domain/Product.cs" />
+      <File FileName="Core/E-CommerceAppAPI.Domain/ProductImageFile.cs" />
+      <File FileName="Core/E-CommerceAppAPI.Domain/File.cs" />
+      <File FileName="Infrastructure/E-CommerceAppAPI.Persistence/Migrations/20230626051719_mig_3.Designer.cs" />
+      <File FileName="Core/E-CommerceAppAPI.Application/Repositories/File/IFileReadRepository.cs" />
+      <File FileName="Core/E-CommerceAppAPI.Application/Repositories/File/IFileWriteRepository.cs" />
+      <File FileName="Core/E-CommerceAppAPI.Application/Repositories/Customer/ICustomerReadRepository.cs" />
+      <File FileName="Core/E-CommerceAppAPI.Application/Repositories/Product/IProductReadRepository.cs" />
+      <File FileName="Core/E-CommerceAppAPI.Application/Repositories/ProductImageFile/IProductImageFileReadRepository.cs" />
+      <File FileName="Core/E-CommerceAppAPI.Application/Repositories/ProductImageFile/IProductImageFileWriteRepository.cs" />
+      <File FileName="Core/E-CommerceAppAPI.Application/Repositories/Product/IProductWriteRepository.cs" />
+      <File FileName="Core/E-CommerceAppAPI.Application/Repositories/InvoiceFile/IInvoiceFileReadRepository.cs" Line="5" Column="3" />
+      <File FileName="Core/E-CommerceAppAPI.Application/Repositories/InvoiceFile/IInvoiceFileWriteRepository.cs" Line="9" Column="1" />
+      <File FileName="Infrastructure/E-CommerceAppAPI.Persistence/Repositories/ReadRepository.cs" />
+      <File FileName="Infrastructure/E-CommerceAppAPI.Persistence/Concretes/Customer/CustomerReadRepository.cs" />
+      <File FileName="Infrastructure/E-CommerceAppAPI.Persistence/Concretes/Customer/CustomerWriteRepository.cs" />
+      <File FileName="Infrastructure/E-CommerceAppAPI.Persistence/Contexts/ECommerceAPIDbContext.cs" Line="1" Column="1" />
+      <File FileName="Infrastructure/E-CommerceAppAPI.Persistence/Concretes/ProductService.cs" Line="1" Column="1" />
+      <File FileName="Infrastructure/E-CommerceAppAPI.Infrastructure/Services/FileServices.cs" Line="1" Column="1" />
+      <File FileName="Infrastructure/E-CommerceAppAPI.Infrastructure/ServiceRegistration.cs" Line="1" Column="1" />
+      <File FileName="Infrastructure/E-CommerceAppAPI.Persistence/Concretes/File/FileReadRepository.cs" Line="14" Column="2" />
+      <File FileName="Infrastructure/E-CommerceAppAPI.Persistence/Concretes/File/FileWriteRepository.cs" Line="13" Column="6" />
+      <File FileName="Infrastructure/E-CommerceAppAPI.Persistence/Concretes/InvoiceFile/InvoiceFileReadRepository.cs" Line="6" Column="82" />
+      <File FileName="Infrastructure/E-CommerceAppAPI.Persistence/Concretes/Order/OrderReadRepository.cs" Line="1" Column="1" NotebookId="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="E-CommerceAppAPI" expanded="True">
-            <Node name="Infrastructure" expanded="True">
-              <Node name="E-CommerceAppAPI.Persistence" expanded="True">
+          <Node name="E-CommerceAppAPI" expanded="True" selected="True">
+            <Node name="Core" expanded="True">
+              <Node name="E-CommerceAppAPI.Application" expanded="True">
                 <Node name="Repositories" expanded="True">
-                  <Node name="WriteRepository.cs" selected="True" />
+                  <Node name="InvoiceFile" expanded="True" />
                 </Node>
               </Node>
             </Node>
-            <Node name="Presentation" expanded="True">
-              <Node name="E-CommerceAppAPI.API" expanded="True">
+            <Node name="Infrastructure" expanded="True">
+              <Node name="E-CommerceAppAPI.Infrastructure" expanded="True" />
+              <Node name="E-CommerceAppAPI.Persistence">
+                <Node name="Dependencies" expanded="True">
+                  <Node name="PackageDependencies" expanded="True" />
+                </Node>
+                <Node name="Concretes" expanded="True">
+                  <Node name="InvoiceFile" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+            <Node name="Presentation">
+              <Node name="E-CommerceAppAPI.API">
                 <Node name="Controllers" expanded="True" />
               </Node>
             </Node>
@@ -34,5 +61,13 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/fursakizci/Projects/E-CommerceApp/E-CommerceAppAPI/Infrastructure/E-CommerceAppAPI.Persistence/Repositories/WriteRepository.cs" relfile="Infrastructure/E-CommerceAppAPI.Persistence/Repositories/WriteRepository.cs" line="30" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Presentation.E-CommerceAppAPI.API PreferredExecutionTarget="/Applications/Google Chrome.app" />
 </Properties>

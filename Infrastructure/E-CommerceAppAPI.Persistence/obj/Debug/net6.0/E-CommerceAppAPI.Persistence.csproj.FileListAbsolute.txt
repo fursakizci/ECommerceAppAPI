@@ -1,4 +1,5 @@
 /Users/fursakizci/Projects/E-CommerceApp/E-CommerceAppAPI/Infrastructure/E-CommerceAppAPI.Persistence/bin/Debug/net6.0/E-CommerceAppAPI.Persistence.deps.json
+/Users/fursakizci/Projects/E-CommerceApp/E-CommerceAppAPI/Infrastructure/E-CommerceAppAPI.Persistence/bin/Debug/net6.0/E-CommerceAppAPI.Persistence.runtimeconfig.json
 /Users/fursakizci/Projects/E-CommerceApp/E-CommerceAppAPI/Infrastructure/E-CommerceAppAPI.Persistence/bin/Debug/net6.0/E-CommerceAppAPI.Persistence.dll
 /Users/fursakizci/Projects/E-CommerceApp/E-CommerceAppAPI/Infrastructure/E-CommerceAppAPI.Persistence/bin/Debug/net6.0/E-CommerceAppAPI.Persistence.pdb
 /Users/fursakizci/Projects/E-CommerceApp/E-CommerceAppAPI/Infrastructure/E-CommerceAppAPI.Persistence/bin/Debug/net6.0/E-CommerceAppAPI.Application.dll
@@ -14,6 +15,5 @@
 /Users/fursakizci/Projects/E-CommerceApp/E-CommerceAppAPI/Infrastructure/E-CommerceAppAPI.Persistence/obj/Debug/net6.0/E-CommerceAppAPI.Persistence.dll
 /Users/fursakizci/Projects/E-CommerceApp/E-CommerceAppAPI/Infrastructure/E-CommerceAppAPI.Persistence/obj/Debug/net6.0/refint/E-CommerceAppAPI.Persistence.dll
 /Users/fursakizci/Projects/E-CommerceApp/E-CommerceAppAPI/Infrastructure/E-CommerceAppAPI.Persistence/obj/Debug/net6.0/E-CommerceAppAPI.Persistence.pdb
-/Users/fursakizci/Projects/E-CommerceApp/E-CommerceAppAPI/Infrastructure/E-CommerceAppAPI.Persistence/obj/Debug/net6.0/ref/E-CommerceAppAPI.Persistence.dll
-/Users/fursakizci/Projects/E-CommerceApp/E-CommerceAppAPI/Infrastructure/E-CommerceAppAPI.Persistence/bin/Debug/net6.0/E-CommerceAppAPI.Persistence.runtimeconfig.json
 /Users/fursakizci/Projects/E-CommerceApp/E-CommerceAppAPI/Infrastructure/E-CommerceAppAPI.Persistence/obj/Debug/net6.0/E-CommerceAppAPI.Persistence.genruntimeconfig.cache
+/Users/fursakizci/Projects/E-CommerceApp/E-CommerceAppAPI/Infrastructure/E-CommerceAppAPI.Persistence/obj/Debug/net6.0/ref/E-CommerceAppAPI.Persistence.dll
