@@ -21,6 +21,9 @@
       <PackageReference Include="FluentValidation" Version="11.5.2" />
       <PackageReference Include="FluentValidation.AspNetCore" Version="11.3.0" />
       <PackageReference Include="FluentValidation.DependencyInjectionExtensions" Version="11.5.2" />
+      <PackageReference Include="MediatR" Version="12.0.1" />
+      <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="11.1.0" />
+      <PackageReference Include="Microsoft.AspNetCore.Http" Version="2.2.2" />
     </ItemGroup>
 
     <ItemGroup>
@@ -29,6 +32,7 @@
       <None Remove="Repositories\InvoiceFile\" />
     </ItemGroup>
     <ItemGroup>
+      <Folder Include="Abstractions\Storage\AWS" />
       <Folder Include="Repositories\File\" />
       <Folder Include="Repositories\ProductImageFile\" />
       <Folder Include="Repositories\InvoiceFile\" />

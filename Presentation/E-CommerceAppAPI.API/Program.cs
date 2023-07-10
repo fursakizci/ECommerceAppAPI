@@ -1,6 +1,8 @@
+using E_CommerceAppAPI.Application;
 using E_CommerceAppAPI.Application.Validators.Products;
 using E_CommerceAppAPI.Infrastructure;
 using E_CommerceAppAPI.Infrastructure.Filters;
+using E_CommerceAppAPI.Infrastructure.Services.Storage.Local;
 using E_CommerceAppAPI.Persistence;
 using FluentValidation.AspNetCore;
 
@@ -15,6 +17,10 @@ builder.Services.AddControllers(options => options.Filters.Add<ValidationFilter>
 
 builder.Services.AddPersistenceServices();
 builder.Services.AddInfrastructureService();
+builder.Services.AddApplicationServices();
+
+builder.Services.AddStorage<LocalStorage>();
+
 builder.Services.AddCors(options => options.AddDefaultPolicy(policy =>
     policy.AllowAnyOrigin().AllowAnyHeader().AllowAnyMethod()));
 

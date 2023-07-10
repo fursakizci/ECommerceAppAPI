@@ -161,3 +161,11 @@
 /Users/fursakizci/Projects/E-CommerceApp/E-CommerceAppAPI/Presentation/E-CommerceAppAPI.API/obj/Debug/net6.0/E-CommerceAppAPI.API.pdb
 /Users/fursakizci/Projects/E-CommerceApp/E-CommerceAppAPI/Presentation/E-CommerceAppAPI.API/obj/Debug/net6.0/E-CommerceAppAPI.API.genruntimeconfig.cache
 /Users/fursakizci/Projects/E-CommerceApp/E-CommerceAppAPI/Presentation/E-CommerceAppAPI.API/obj/Debug/net6.0/ref/E-CommerceAppAPI.API.dll
+/Users/fursakizci/Projects/E-CommerceApp/E-CommerceAppAPI/Presentation/E-CommerceAppAPI.API/bin/Debug/net6.0/Azure.Core.dll
+/Users/fursakizci/Projects/E-CommerceApp/E-CommerceAppAPI/Presentation/E-CommerceAppAPI.API/bin/Debug/net6.0/Azure.Storage.Blobs.dll
+/Users/fursakizci/Projects/E-CommerceApp/E-CommerceAppAPI/Presentation/E-CommerceAppAPI.API/bin/Debug/net6.0/Azure.Storage.Common.dll
+/Users/fursakizci/Projects/E-CommerceApp/E-CommerceAppAPI/Presentation/E-CommerceAppAPI.API/bin/Debug/net6.0/System.IO.Hashing.dll
+/Users/fursakizci/Projects/E-CommerceApp/E-CommerceAppAPI/Presentation/E-CommerceAppAPI.API/bin/Debug/net6.0/System.Memory.Data.dll
+/Users/fursakizci/Projects/E-CommerceApp/E-CommerceAppAPI/Presentation/E-CommerceAppAPI.API/bin/Debug/net6.0/MediatR.dll
+/Users/fursakizci/Projects/E-CommerceApp/E-CommerceAppAPI/Presentation/E-CommerceAppAPI.API/bin/Debug/net6.0/MediatR.Contracts.dll
+/Users/fursakizci/Projects/E-CommerceApp/E-CommerceAppAPI/Presentation/E-CommerceAppAPI.API/bin/Debug/net6.0/MediatR.Extensions.Microsoft.DependencyInjection.dll

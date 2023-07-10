@@ -51,7 +51,7 @@ public class WriteRepository<T>:IWriteRepository<T> where T : BaseEntity
     {
         try
         {
-            await Table.AddRangeAsync(model);
+            //await Table.AddRangeAsync(model);
         }
         catch (Exception e)
         {

@@ -15,6 +15,7 @@ public class ValidationFilter:IAsyncActionFilter
                 .ToArray();
 
             context.Result = new BadRequestObjectResult(errors);
+            return;
         }
         await next();
     }

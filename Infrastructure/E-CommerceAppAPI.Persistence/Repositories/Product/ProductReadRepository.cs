@@ -1,8 +1,7 @@
 using E_CommerceAppAPI.Application.Repositories.Product;
 using E_CommerceAppAPI.Persistence.Contexts;
-using E_CommerceAppAPI.Persistence.Repositories;
 
-namespace E_CommerceAppAPI.Persistence.Concretes.Product;
+namespace E_CommerceAppAPI.Persistence.Repositories.Product;
 
 public class ProductReadRepository:ReadRepository<Domain.Product>,IProductReadRepository
 {

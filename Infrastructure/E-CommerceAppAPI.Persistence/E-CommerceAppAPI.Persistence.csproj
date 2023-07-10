@@ -28,8 +28,4 @@
       <None Remove="Concretes\File\" />
       <None Remove="Concretes\InvoiceFile\" />
     </ItemGroup>
-    <ItemGroup>
-      <Folder Include="Concretes\File\" />
-      <Folder Include="Concretes\InvoiceFile\" />
-    </ItemGroup>
 </Project>
